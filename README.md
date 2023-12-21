@@ -1,3 +1,5 @@
+#Machine learning-deep learning
+
 The project deals with the application of three different neural networks to
 perform binary classification on a dataset collecting colored images depicting
 chihuahuas and muffins. Specifically, the convolutional architectures considered are, in order of complexity, Lenet-5, a simplified version of Alexnet and
