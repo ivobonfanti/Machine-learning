@@ -1,4 +1,4 @@
-#Machine learning-deep learning
+# Machine learning
 
 The project deals with the application of three different neural networks to
 perform binary classification on a dataset collecting colored images depicting
